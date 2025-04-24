@@ -1,0 +1,17 @@
+{
+    "key.autoaim.aim": "Auto Aim",
+    "category.autoaim.keys": "Auto Aim Mod",
+    "config.autoaim.title": "Auto Aim Settings",
+    "config.autoaim.triggerMode": "Trigger Mode",
+    "config.autoaim.searchRadius": "Search Radius (blocks)",
+    "config.autoaim.obstacleCheck": "Check Obstacles",
+    "config.autoaim.listMode": "Filter Mode",
+    "config.autoaim.entityList": "Entity List",
+    "config.autoaim.showHighlight": "Show Highlight",
+    "config.autoaim.highlightColor": "Highlight Color",
+    "config.autoaim.highlightWidth": "Line Width",
+    "config.autoaim.triggerMode.HOLD": "Hold",
+    "config.autoaim.triggerMode.TOGGLE": "Toggle",
+    "config.autoaim.listMode.BLACKLIST": "Blacklist",
+    "config.autoaim.listMode.WHITELIST": "Whitelist"
+}
